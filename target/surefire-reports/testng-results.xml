@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-07T20:52:31Z" name="Suite" finished-at="2020-06-07T20:57:35Z" duration-ms="303311">
+    <groups>
+    </groups>
+    <test started-at="2020-06-07T20:52:31Z" name="Test" finished-at="2020-06-07T20:57:35Z" duration-ms="303311">
+      <class name="com.qa.testcases.TC_07_TasksPage">
+        <test-method is-config="true" signature="intiBrowser()[pri:0, instance:com.qa.testcases.TC_07_TasksPage@21129f1f]" started-at="2020-06-07T20:52:56Z" name="intiBrowser" finished-at="2020-06-07T20:53:08Z" duration-ms="11884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intiBrowser -->
+        <test-method signature="task_Tab()[pri:0, instance:com.qa.testcases.TC_07_TasksPage@21129f1f]" started-at="2020-06-07T20:53:08Z" name="task_Tab" finished-at="2020-06-07T20:53:15Z" duration-ms="6215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- task_Tab -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.testcases.TC_07_TasksPage@21129f1f]" started-at="2020-06-07T20:53:15Z" name="close" finished-at="2020-06-07T20:53:16Z" duration-ms="1512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.qa.testcases.TC_07_TasksPage -->
+      <class name="com.qa.testcases.TC_02_Calendarpage">
+        <test-method is-config="true" signature="init_browser()[pri:0, instance:com.qa.testcases.TC_02_Calendarpage@352c1b98]" started-at="2020-06-07T20:52:31Z" name="init_browser" finished-at="2020-06-07T20:52:44Z" duration-ms="12362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_browser -->
+        <test-method signature="addNewCalenderInvite()[pri:0, instance:com.qa.testcases.TC_02_Calendarpage@352c1b98]" started-at="2020-06-07T20:52:44Z" name="addNewCalenderInvite" finished-at="2020-06-07T20:52:54Z" duration-ms="10428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCalenderInvite -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.qa.testcases.TC_02_Calendarpage@352c1b98]" started-at="2020-06-07T20:52:55Z" name="closebrowser" finished-at="2020-06-07T20:52:56Z" duration-ms="1905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.qa.testcases.TC_02_Calendarpage -->
+      <class name="com.qa.testcases.TC_01_Loginpage">
+        <test-method is-config="true" signature="init_browser()[pri:0, instance:com.qa.testcases.TC_01_Loginpage@6853425f]" started-at="2020-06-07T20:54:00Z" name="init_browser" finished-at="2020-06-07T20:54:08Z" duration-ms="7712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_browser -->
+        <test-method signature="FreeCrmLogin()[pri:1, instance:com.qa.testcases.TC_01_Loginpage@6853425f]" started-at="2020-06-07T20:54:08Z" name="FreeCrmLogin" finished-at="2020-06-07T20:54:16Z" duration-ms="7492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FreeCrmLogin -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.qa.testcases.TC_01_Loginpage@6853425f]" started-at="2020-06-07T20:54:16Z" name="closebrowser" finished-at="2020-06-07T20:54:17Z" duration-ms="1452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.qa.testcases.TC_01_Loginpage -->
+      <class name="com.qa.testcases.TC_08_DocumentsPage">
+        <test-method is-config="true" signature="intiBrowser_Login()[pri:0, instance:com.qa.testcases.TC_08_DocumentsPage@7d898981]" started-at="2020-06-07T20:54:17Z" name="intiBrowser_Login" finished-at="2020-06-07T20:54:29Z" duration-ms="11804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intiBrowser_Login -->
+        <test-method signature="documents_Tab()[pri:1, instance:com.qa.testcases.TC_08_DocumentsPage@7d898981]" started-at="2020-06-07T20:54:29Z" name="documents_Tab" finished-at="2020-06-07T20:54:37Z" duration-ms="8517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- documents_Tab -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.testcases.TC_08_DocumentsPage@7d898981]" started-at="2020-06-07T20:54:37Z" name="close" finished-at="2020-06-07T20:54:39Z" duration-ms="1443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="intiBrowser_Login()[pri:0, instance:com.qa.testcases.TC_08_DocumentsPage@7d898981]" started-at="2020-06-07T20:55:49Z" name="intiBrowser_Login" finished-at="2020-06-07T20:56:01Z" duration-ms="12024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intiBrowser_Login -->
+        <test-method signature="NewFolder()[pri:2, instance:com.qa.testcases.TC_08_DocumentsPage@7d898981]" started-at="2020-06-07T20:56:01Z" name="NewFolder" finished-at="2020-06-07T20:56:04Z" duration-ms="3550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewFolder -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.testcases.TC_08_DocumentsPage@7d898981]" started-at="2020-06-07T20:56:04Z" name="close" finished-at="2020-06-07T20:56:06Z" duration-ms="1876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.qa.testcases.TC_08_DocumentsPage -->
+      <class name="com.qa.testcases.TC_05_DealsPage">
+        <test-method is-config="true" signature="startup()[pri:0, instance:com.qa.testcases.TC_05_DealsPage@282cb7c7]" started-at="2020-06-07T20:53:40Z" name="startup" finished-at="2020-06-07T20:53:51Z" duration-ms="10803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="Dealspage()[pri:0, instance:com.qa.testcases.TC_05_DealsPage@282cb7c7]" started-at="2020-06-07T20:53:51Z" name="Dealspage" finished-at="2020-06-07T20:53:58Z" duration-ms="7264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dealspage -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.testcases.TC_05_DealsPage@282cb7c7]" started-at="2020-06-07T20:53:58Z" name="close" finished-at="2020-06-07T20:54:00Z" duration-ms="2078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.qa.testcases.TC_05_DealsPage -->
+      <class name="com.qa.testcases.TC_06_CompaniesPage">
+        <test-method is-config="true" signature="intiBrowser_Login()[pri:0, instance:com.qa.testcases.TC_06_CompaniesPage@5a9f4771]" started-at="2020-06-07T20:53:16Z" name="intiBrowser_Login" finished-at="2020-06-07T20:53:28Z" duration-ms="12016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intiBrowser_Login -->
+        <test-method signature="companies_TabClick()[pri:0, instance:com.qa.testcases.TC_06_CompaniesPage@5a9f4771]" started-at="2020-06-07T20:53:28Z" name="companies_TabClick" finished-at="2020-06-07T20:53:39Z" duration-ms="10656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companies_TabClick -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.testcases.TC_06_CompaniesPage@5a9f4771]" started-at="2020-06-07T20:53:39Z" name="close" finished-at="2020-06-07T20:53:40Z" duration-ms="1496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.qa.testcases.TC_06_CompaniesPage -->
+      <class name="com.qa.testcases.TC_04_ContactpageDDT">
+        <test-method is-config="true" signature="init_browser()[pri:0, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:54:41Z" name="init_browser" finished-at="2020-06-07T20:54:53Z" duration-ms="12068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_browser -->
+        <test-method signature="AddNewContacts(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:54:53Z" name="AddNewContacts" data-provider="contacts" finished-at="2020-06-07T20:55:01Z" duration-ms="8446" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BellRoad]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pheonix]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Arizona]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewContacts -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:55:01Z" name="closebrowser" finished-at="2020-06-07T20:55:03Z" duration-ms="1412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="init_browser()[pri:0, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:55:03Z" name="init_browser" finished-at="2020-06-07T20:55:14Z" duration-ms="11583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_browser -->
+        <test-method signature="AddNewContacts(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:55:14Z" name="AddNewContacts" data-provider="contacts" finished-at="2020-06-07T20:55:24Z" duration-ms="9935" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kavitha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jijo]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bellroad]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Charlotte]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[NC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewContacts -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:55:24Z" name="closebrowser" finished-at="2020-06-07T20:55:25Z" duration-ms="1433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="init_browser()[pri:0, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:55:26Z" name="init_browser" finished-at="2020-06-07T20:55:38Z" duration-ms="12009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_browser -->
+        <test-method signature="AddNewContacts(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:55:38Z" name="AddNewContacts" data-provider="contacts" finished-at="2020-06-07T20:55:47Z" duration-ms="9497" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Manjula]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[S]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Union hills Dr]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Glendale]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[California]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewContacts -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:55:47Z" name="closebrowser" finished-at="2020-06-07T20:55:49Z" duration-ms="1586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="init_browser()[pri:0, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:56:06Z" name="init_browser" finished-at="2020-06-07T20:56:18Z" duration-ms="11966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_browser -->
+        <test-method signature="editContacts()[pri:2, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:56:18Z" name="editContacts" finished-at="2020-06-07T20:56:24Z" duration-ms="6441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editContacts -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:56:24Z" name="closebrowser" finished-at="2020-06-07T20:56:27Z" duration-ms="2306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="init_browser()[pri:0, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:56:27Z" name="init_browser" finished-at="2020-06-07T20:57:03Z" duration-ms="35928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_browser -->
+        <test-method signature="deleteContacts()[pri:3, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:57:03Z" name="deleteContacts" finished-at="2020-06-07T20:57:33Z" duration-ms="30365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteContacts -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.qa.testcases.TC_04_ContactpageDDT@48d61b48]" started-at="2020-06-07T20:57:33Z" name="closebrowser" finished-at="2020-06-07T20:57:35Z" duration-ms="1516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.qa.testcases.TC_04_ContactpageDDT -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

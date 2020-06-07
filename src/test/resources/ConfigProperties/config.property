@@ -1,0 +1,48 @@
+browser=chrome
+url=https://freecrm.com/
+
+username=itsmanjudinesh@gmail.com
+password=Mmdindiv8285
+
+xlpath=C:\\Users\\itsdi\\eclipse-workspace\\AgamaTeamProject\\src\\test\\resources\\TestData\\AgamaProject.xlsx
+
+ContactsPage
+===========
+Cemail=manjulaS@gmail.com
+CPhone=789654123
+
+CalanderPage
+---------------
+name=Manjula
+description=Meeting at 3pm in conference room 3
+title=Client Meeting
+
+DealsPage
+==========
+DealsTitle=Clothing Deals
+amount=5000
+company=OldNavy
+
+CompaniesPage
+=============
+CompName=American Express
+website=https://www.americanexpress.com/
+compStreet=786 E SheaBlvd
+city=Scottsdale
+state=Arizona
+zip=85032
+CStatus=New
+
+TasksPage
+============
+TaskTitle=QA Testing
+TaskType=General Support
+
+DocumentsPage
+=============
+DocTitle=MyProject logfile
+DocTags=logfile
+Docdescription=logfile
+docFile=C:\Users\itsdi\eclipse-workspace\AgamaTeamProject\AgamaProject.log
+Identifier= AgamaProject log file
+DocFoldername=LogFile

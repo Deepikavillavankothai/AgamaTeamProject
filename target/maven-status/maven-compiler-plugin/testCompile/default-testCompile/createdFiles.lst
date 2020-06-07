@@ -1,0 +1,16 @@
+com\qa\pages\LoginPage.class
+com\qa\testcases\TC_03_EmailPage.class
+com\qa\pages\CompaniesPage.class
+com\qa\testcases\TC_06_CompaniesPage.class
+com\qa\testcases\TC_07_TasksPage.class
+com\qa\testcases\TC_01_Loginpage.class
+com\qa\pages\TasksPage.class
+com\qa\pages\CalendarPage.class
+com\qa\pages\EmailPage.class
+com\qa\pages\ContactsPage.class
+com\qa\testcases\TC_02_Calendarpage.class
+com\qa\pages\DocumentsPage.class
+com\qa\testcases\TC_05_DealsPage.class
+com\qa\pages\DealsPage.class
+com\qa\testcases\TC_08_DocumentsPage.class
+com\qa\testcases\TC_04_ContactpageDDT.class
