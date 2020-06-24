@@ -34,6 +34,7 @@ public class TC_02_Calendarpage extends Library{
 	
 	@AfterMethod
 	public void closebrowser() {
+		logger.info("Closing browser for TC_02_CalendarPage");
 		selutil.getScreenshot();
 		tearDown();
 	}

@@ -36,6 +36,7 @@ public class TC_05_DealsPage extends Library{
 			
 	@AfterMethod()
 	public void close(){
+		logger.info("Closing browser for TC_05_DealsPage");
 		selutil = new seleniumutils(driver);
 		selutil.getScreenshot();
 		deal.logout();

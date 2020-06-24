@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.qa.testcases.TC_08_DocumentsPage">
+      <class name="com.qa.testcases.TC_01_Loginpage">
         <methods>
-          <include name="intiBrowser_Login"/>
-          <include name="close"/>
-          <include name="NewFolder"/>
+          <include name="FreeCrmLogin"/>
+          <include name="closebrowser"/>
+          <include name="init_browser"/>
         </methods>
-      </class> <!-- com.qa.testcases.TC_08_DocumentsPage -->
+      </class> <!-- com.qa.testcases.TC_01_Loginpage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

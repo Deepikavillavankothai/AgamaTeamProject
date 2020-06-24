@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="99.244" tests="12" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="99.818" tests="12" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="13.0.2+8"/>
@@ -59,16 +59,16 @@
     <property name="sun.stdout.encoding" value="cp437"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="addNewCalenderInvite" classname="com.qa.testcases.TC_02_Calendarpage" time="10.319"/>
-  <testcase name="task_Tab" classname="com.qa.testcases.TC_07_TasksPage" time="6.214"/>
-  <testcase name="companies_TabClick" classname="com.qa.testcases.TC_06_CompaniesPage" time="10.637"/>
-  <testcase name="Dealspage" classname="com.qa.testcases.TC_05_DealsPage" time="7.262"/>
-  <testcase name="FreeCrmLogin" classname="com.qa.testcases.TC_01_Loginpage" time="7.492"/>
-  <testcase name="documents_Tab" classname="com.qa.testcases.TC_08_DocumentsPage" time="8.518"/>
-  <testcase name="AddNewContacts" classname="com.qa.testcases.TC_04_ContactpageDDT" time="8.447"/>
-  <testcase name="AddNewContacts" classname="com.qa.testcases.TC_04_ContactpageDDT" time="9.93"/>
-  <testcase name="AddNewContacts" classname="com.qa.testcases.TC_04_ContactpageDDT" time="9.494"/>
-  <testcase name="NewFolder" classname="com.qa.testcases.TC_08_DocumentsPage" time="3.548"/>
-  <testcase name="editContacts" classname="com.qa.testcases.TC_04_ContactpageDDT" time="6.439"/>
-  <testcase name="deleteContacts" classname="com.qa.testcases.TC_04_ContactpageDDT" time="30.368"/>
+  <testcase name="addNewCalenderInvite" classname="com.qa.testcases.TC_02_Calendarpage" time="13.277"/>
+  <testcase name="task_Tab" classname="com.qa.testcases.TC_07_TasksPage" time="9.074"/>
+  <testcase name="companies_TabClick" classname="com.qa.testcases.TC_06_CompaniesPage" time="13.78"/>
+  <testcase name="Dealspage" classname="com.qa.testcases.TC_05_DealsPage" time="10.46"/>
+  <testcase name="FreeCrmLogin" classname="com.qa.testcases.TC_01_Loginpage" time="9.738"/>
+  <testcase name="documents_Tab" classname="com.qa.testcases.TC_08_DocumentsPage" time="13.734"/>
+  <testcase name="AddNewContacts" classname="com.qa.testcases.TC_04_ContactpageDDT" time="12.244"/>
+  <testcase name="AddNewContacts" classname="com.qa.testcases.TC_04_ContactpageDDT" time="11.681"/>
+  <testcase name="AddNewContacts" classname="com.qa.testcases.TC_04_ContactpageDDT" time="13.467"/>
+  <testcase name="NewFolder" classname="com.qa.testcases.TC_08_DocumentsPage" time="3.929"/>
+  <testcase name="editContacts" classname="com.qa.testcases.TC_04_ContactpageDDT" time="7.535"/>
+  <testcase name="deleteContacts" classname="com.qa.testcases.TC_04_ContactpageDDT" time="6.047"/>
 </testsuite>

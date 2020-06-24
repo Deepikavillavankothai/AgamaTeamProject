@@ -50,6 +50,7 @@ public class TC_08_DocumentsPage extends Library{
 	{
 		selutil = new seleniumutils(driver);
 		selutil.getScreenshot();
+		logger.info("Closing browser for TC_08_Documentspage");
 		tearDown();
 	}
 

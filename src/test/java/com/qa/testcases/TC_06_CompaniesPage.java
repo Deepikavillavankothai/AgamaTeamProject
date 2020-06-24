@@ -50,6 +50,7 @@ public class TC_06_CompaniesPage extends Library{
 	{
 		selutil = new seleniumutils(driver);
 		selutil.getScreenshot();
+		logger.info("Closing browser for TC_06_Companiespage");
 		tearDown();
 	}
 

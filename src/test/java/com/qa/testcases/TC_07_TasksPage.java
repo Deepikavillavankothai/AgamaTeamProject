@@ -41,6 +41,7 @@ public class TC_07_TasksPage extends Library{
 	public void close()
 	{
 		selutil.getScreenshot();
+		logger.info("Closing browser for TC_07_Taskspage");
 		tearDown();
 	}
 

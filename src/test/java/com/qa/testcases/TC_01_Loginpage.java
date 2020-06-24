@@ -1,6 +1,6 @@
 package com.qa.testcases;
 
-import java.lang.invoke.SwitchPoint;
+
 
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
@@ -38,6 +38,7 @@ public class TC_01_Loginpage extends Library{
 	
 	@AfterMethod
 	public void closebrowser() {
+		logger.info("Closing browser for TC_01_loginPage");
 		tearDown();
 	}
 	

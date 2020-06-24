@@ -1,8 +1,6 @@
 package com.qa.testcases;
 
 import java.io.IOException;
-
-import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
@@ -73,6 +71,7 @@ public class TC_04_ContactpageDDT extends Library {
 	
 	@AfterMethod
 	public void closebrowser() {
+		logger.info("Closing browser for TC_04_ContactPage");
 		selutil.getScreenshot();
 		tearDown();
 	}

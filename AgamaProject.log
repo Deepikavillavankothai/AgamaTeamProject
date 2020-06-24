@@ -1,155 +1,36 @@
-2020-06-07 12:16:06,356  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 12:16:10,799  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 12:16:15,302  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 12:16:36,243  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 12:33:00,516  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 12:33:05,031  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 12:33:09,750  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 12:33:31,168  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 12:37:16,448  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 12:37:20,756  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 12:37:25,277  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 12:40:20,098  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 12:40:24,350  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 12:40:28,489  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 12:41:19,005  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 12:41:56,434  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 12:42:00,800  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 12:42:05,044  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 12:42:25,337  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 12:42:50,365  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 12:42:54,726  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 12:42:58,951  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 12:43:55,712  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 12:44:00,049  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 12:44:04,525  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 12:44:25,904  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 12:46:10,149  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 12:46:14,594  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 12:46:18,938  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 12:46:40,993  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 12:48:42,842  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 12:48:47,345  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 12:48:51,422  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 12:49:16,014  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 12:53:51,675  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 12:53:55,881  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 12:54:00,644  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 12:54:15,386  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:23:31,442  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:23:35,733  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:23:40,506  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:23:47,859  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:25:10,606  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:25:14,818  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:25:19,403  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:25:28,614  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:29:47,008  INFO [main] Library:19 - Launching browser for TC_02_CalendarPage
-2020-06-07 13:29:47,011  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:29:51,278  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:29:55,653  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:30:12,025  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:30:12,036  INFO [main] Library:19 - Launching browser for TC_05_DealsPage
-2020-06-07 13:30:12,037  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:30:15,563  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:30:20,189  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:30:33,955  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:30:33,963  INFO [main] Library:21 - Launching browser for TC_06_Companiespage
-2020-06-07 13:30:33,964  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:30:37,471  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:30:41,900  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:30:49,389  INFO [main] Library:33 - Add New Entry
-2020-06-07 13:30:59,548  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:30:59,554  INFO [main] Library:19 - Launching browser for TC_07_Taskspage
-2020-06-07 13:30:59,554  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:31:03,006  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:31:07,412  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:31:18,873  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:31:18,876  INFO [main] Library:20 - Launching browser for TC_01_loginpage
-2020-06-07 13:31:18,876  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:31:22,353  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:31:26,538  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:31:26,547  INFO [main] Library:26 - Entering userid and password
-2020-06-07 13:31:34,268  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:31:34,677 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-2020-06-07 13:31:34,679 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-2020-06-07 13:31:34,682 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-2020-06-07 13:31:34,684 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-2020-06-07 13:31:34,685 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/itsdi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-2020-06-07 13:31:35,077 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-2020-06-07 13:31:35,079 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-2020-06-07 13:31:35,079 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-2020-06-07 13:31:35,080 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-2020-06-07 13:31:35,082 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/itsdi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-2020-06-07 13:52:31,858  INFO [main] Library:19 - Launching browser for TC_02_CalendarPage
-2020-06-07 13:52:31,862  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:52:36,469  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:52:40,823  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:52:56,904  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:52:56,917  INFO [main] Library:19 - Launching browser for TC_07_Taskspage
-2020-06-07 13:52:56,918  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:53:00,363  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:53:04,701  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:53:16,532  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:53:16,540  INFO [main] Library:21 - Launching browser for TC_06_Companiespage
-2020-06-07 13:53:16,541  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:53:20,028  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:53:24,730  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:53:31,863  INFO [main] Library:33 - Add New Entry
-2020-06-07 13:53:40,709  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:53:40,716  INFO [main] Library:19 - Launching browser for TC_05_DealsPage
-2020-06-07 13:53:40,716  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:53:44,129  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:53:48,392  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:54:00,863  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:54:00,875  INFO [main] Library:20 - Launching browser for TC_01_loginpage
-2020-06-07 13:54:00,876  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:54:04,323  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:54:08,584  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:54:08,592  INFO [main] Library:26 - Entering userid and password
-2020-06-07 13:54:17,532  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:54:17,541  INFO [main] Library:19 - Launching browser for TC_08_Documentspage
-2020-06-07 13:54:17,542  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:54:20,918  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:54:25,356  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:54:39,316  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:54:41,103  INFO [main] Library:23 - Launching browser for TC_04_ContactPage
-2020-06-07 13:54:41,106  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:54:44,605  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:54:49,215  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:55:03,036  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:55:03,042  INFO [main] Library:23 - Launching browser for TC_04_ContactPage
-2020-06-07 13:55:03,043  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:55:06,515  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:55:10,852  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:55:25,994  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:55:26,001  INFO [main] Library:23 - Launching browser for TC_04_ContactPage
-2020-06-07 13:55:26,001  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:55:29,410  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:55:34,051  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:55:49,095  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:55:49,102  INFO [main] Library:19 - Launching browser for TC_08_Documentspage
-2020-06-07 13:55:49,103  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:55:52,598  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:55:57,068  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:56:06,555  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:56:06,561  INFO [main] Library:23 - Launching browser for TC_04_ContactPage
-2020-06-07 13:56:06,561  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:56:09,972  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:56:14,721  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:56:27,277  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:56:27,284  INFO [main] Library:23 - Launching browser for TC_04_ContactPage
-2020-06-07 13:56:27,286  INFO [main] Library:51 - Starting with Browser Set Up
-2020-06-07 13:56:30,669  INFO [main] Library:59 - Identified the browser as chrome. Launching the browser
-2020-06-07 13:56:34,860  INFO [main] Library:89 - Launched the FreeCRM Application
-2020-06-07 13:57:35,099  INFO [main] Library:94 - Exiting the application and closing the browser
-2020-06-07 13:57:35,529 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-2020-06-07 13:57:35,532 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-2020-06-07 13:57:35,536 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-2020-06-07 13:57:35,538 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-2020-06-07 13:57:35,539 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/itsdi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-2020-06-07 13:57:35,972 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-2020-06-07 13:57:35,973 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-2020-06-07 13:57:35,977 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-2020-06-07 13:57:35,978 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-2020-06-07 13:57:35,979 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/itsdi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-06-23 17:32:20,297  INFO [main] Library:16 - Launching browser for TC_11_CRM
+2020-06-23 17:32:20,301  INFO [main] Library:49 - Starting with Browser Set Up
+2020-06-23 17:32:24,432  INFO [main] Library:57 - Identified the browser as chrome. Launching the browser
+2020-06-23 17:32:30,264  INFO [main] Library:87 - Launched the FreeCRM Application
+2020-06-23 17:32:31,401  INFO [main] Library:34 - Closing browser for TC_11_CRM
+2020-06-23 17:32:32,231  INFO [main] Library:92 - Exiting the application and closing the browser
+2020-06-23 17:33:03,526  INFO [main] Library:16 - Launching browser for TC_11_CRM
+2020-06-23 17:33:03,530  INFO [main] Library:49 - Starting with Browser Set Up
+2020-06-23 17:33:08,024  INFO [main] Library:57 - Identified the browser as chrome. Launching the browser
+2020-06-23 17:33:12,159  INFO [main] Library:87 - Launched the FreeCRM Application
+2020-06-23 17:33:14,652  INFO [main] Library:35 - Closing browser for TC_11_CRM
+2020-06-23 17:33:15,479  INFO [main] Library:92 - Exiting the application and closing the browser
+2020-06-23 17:33:27,861  INFO [main] Library:16 - Launching browser for TC_11_CRM
+2020-06-23 17:33:27,864  INFO [main] Library:49 - Starting with Browser Set Up
+2020-06-23 17:33:33,133  INFO [main] Library:57 - Identified the browser as chrome. Launching the browser
+2020-06-23 17:33:37,152  INFO [main] Library:87 - Launched the FreeCRM Application
+2020-06-23 17:33:41,399  INFO [main] Library:35 - Closing browser for TC_11_CRM
+2020-06-23 17:33:42,939  INFO [main] Library:92 - Exiting the application and closing the browser
+2020-06-23 18:46:01,768  INFO [main] Library:16 - Launching browser for TC_11_CRM
+2020-06-23 18:46:01,768  INFO [main] Library:49 - Starting with Browser Set Up
+2020-06-23 18:46:09,971  INFO [main] Library:57 - Identified the browser as chrome. Launching the browser
+2020-06-23 18:46:14,607  INFO [main] Library:87 - Launched the FreeCRM Application
+2020-06-23 18:46:18,685  INFO [main] Library:35 - Closing browser for TC_11_CRM
+2020-06-23 18:46:19,645  INFO [main] Library:92 - Exiting the application and closing the browser
+2020-06-23 18:47:21,891  INFO [main] Library:16 - Launching browser for TC_11_CRM
+2020-06-23 18:47:21,907  INFO [main] Library:49 - Starting with Browser Set Up
+2020-06-23 18:47:26,120  INFO [main] Library:57 - Identified the browser as chrome. Launching the browser
+2020-06-23 18:47:30,418  INFO [main] Library:87 - Launched the FreeCRM Application
+2020-06-23 18:47:33,903  INFO [main] Library:41 - Closing browser for TC_11_CRM
+2020-06-23 18:47:37,412  INFO [main] Library:92 - Exiting the application and closing the browser
+2020-06-23 18:52:03,227  INFO [main] Library:16 - Launching browser for TC_11_CRM
+2020-06-23 18:52:03,227  INFO [main] Library:49 - Starting with Browser Set Up
+2020-06-23 18:52:07,575  INFO [main] Library:57 - Identified the browser as chrome. Launching the browser
+2020-06-23 18:52:11,954  INFO [main] Library:87 - Launched the FreeCRM Application
+2020-06-23 18:52:18,466  INFO [main] Library:41 - Closing browser for TC_11_CRM
+2020-06-23 18:52:19,369  INFO [main] Library:92 - Exiting the application and closing the browser
